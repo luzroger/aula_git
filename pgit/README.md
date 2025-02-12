@@ -1,3 +1,3 @@
-Aula de GitHub
-Aula com Github e teste de sincronização
-Aula de Git
+Curso de Desenvolvimento de Sistemas
+
+SENAI Itumbiara
